@@ -1,18 +1,12 @@
 package enqueue;
 
 import static org.junit.Assert.*;
- 
-import org.junit.Test;
-
-import dequeue.Dequeue;
 
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.junit.AfterClass;
-import org.junit.BeforeClass;
-import org.junit.Test;
+ 
 
 public class QueueTest {
 
